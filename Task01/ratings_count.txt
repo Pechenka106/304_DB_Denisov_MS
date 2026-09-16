@@ -1,0 +1,4 @@
+Min userId = 1
+count = 232
+Max userId = 120
+count = 22
